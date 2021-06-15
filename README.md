@@ -1,6 +1,8 @@
 Запустить тесты командой - gradle test
+
 Посмотреть отчет командой allure serve build/allure-results
 (потребует установленной утилиты allure commandline)
+
 Файл со списком найденных тем можно посмотреть как attachment к тесту #3 в Allure отчете (путь к файлу src/test/java/fns/tests/reports)
 
 По техническому заданию найдено 2 бага:
