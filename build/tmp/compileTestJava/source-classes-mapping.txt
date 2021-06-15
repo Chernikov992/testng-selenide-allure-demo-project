@@ -1,0 +1,4 @@
+fns/tests/configuration/BaseTest.java
+ fns.tests.configuration.BaseTest
+fns/tests/scenarios/ChangeRegionAndSearchTest.java
+ fns.tests.scenarios.ChangeRegionAndSearchTest

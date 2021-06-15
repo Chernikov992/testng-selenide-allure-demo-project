@@ -1,0 +1,16 @@
+app/pages/SearchPage.java
+ app.pages.SearchPage
+app/widgets/SearchWidget.java
+ app.widgets.SearchWidget
+app/PageBuilder.java
+ app.PageBuilder
+app/App.java
+ app.App
+app/pages/MainPage.java
+ app.pages.MainPage
+app/helpers/AllureScreenShooter.java
+ app.helpers.AllureScreenShooter
+app/widgets/Header.java
+ app.widgets.Header
+app/helpers/AllureHelpers.java
+ app.helpers.AllureHelpers
